@@ -1,2 +1,2 @@
 # gestion-notes-scolaire
-Application de gestion de notes scolaire
+Application php de Gestion de notes scolaire
